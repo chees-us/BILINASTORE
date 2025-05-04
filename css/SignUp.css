@@ -145,7 +145,7 @@ a {
     margin-top:5px;
     display: block; /* Ensure it takes up its own line */
     text-align: center; /* Center it horizontally */
-    color: cyan; /* Optional: Ensure the text color is visible */
+    color: black; /* Optional: Ensure the text color is visible */
 }
 
 
