@@ -141,8 +141,8 @@ a {
     background-image: linear-gradient(rgb(55, 58, 65),rgb(1, 19, 22));
 }
 #already {
-    top: 10px;
     position: relative;
+    bottom: 10px;
 }
 
 
