@@ -142,7 +142,10 @@ a {
     background-image: linear-gradient(rgb(55, 58, 65),rgb(1, 19, 22));
 }
 #already {
-    position: relative;
+    display: block; /* Ensure it takes up its own line */
+    margin-top: 20px; /* Add spacing from the other elements */
+    text-align: center; /* Center it horizontally */
+    color: black; /* Optional: Ensure the text color is visible */
 }
 
 
